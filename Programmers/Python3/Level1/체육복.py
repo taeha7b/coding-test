@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42862
+
 def solution(n, lost, reserve):
     n -= len(lost)
     dupl=[i for i in lost if i in reserve]
