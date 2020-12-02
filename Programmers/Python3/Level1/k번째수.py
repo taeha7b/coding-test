@@ -1,5 +1,8 @@
 # https://programmers.co.kr/learn/courses/30/lessons/42748
+"""
+문제 해결의 아이디어:
 
+"""
 def solution(array, commands):
     answer = []
     for data_list in commands:

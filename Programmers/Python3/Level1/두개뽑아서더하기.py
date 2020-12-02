@@ -1,5 +1,8 @@
 # https://programmers.co.kr/learn/courses/30/lessons/68644
+"""
+문제 해결의 아이디어:
 
+"""
 def solution(numbers):
     answer = []
     for key, value in enumerate(numbers):

@@ -1,5 +1,8 @@
 # https://programmers.co.kr/learn/courses/30/lessons/64061
+"""
+문제 해결의 아이디어:
 
+"""
 def solution(board, moves):
     answer = 0
     temp =[]
